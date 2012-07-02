@@ -1,3 +1,5 @@
+#from https://gist.github.com/1165054 by deefour
+
 class String
   # Converts a string into a properly capitalized English title
   # 
